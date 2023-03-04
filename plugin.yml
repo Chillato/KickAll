@@ -1,0 +1,10 @@
+name: KickAll
+main: Chillato\Kick
+author: Chillato
+api: 4.0.0
+version: 1.0
+
+permissions:
+  kick.use:
+    description:
+    default: OP
